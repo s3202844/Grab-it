@@ -1,3 +1,8 @@
+## Install drives for arm
+```bash
+cd arm_drives
+sudo python setup.py install
+```
 ## Joints' defination
 Try **tools/motion_planning.py** to get familiar with the defination of joints.
 ```bash
